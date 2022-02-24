@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49884deb-c5ca-40a2-b42b-3b463e165a18": {
+      "ProjectGuid": "49884deb-c5ca-40a2-b42b-3b463e165a18",
+      "DisplayName": "EnergyUsageWebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
